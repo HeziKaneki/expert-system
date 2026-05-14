@@ -19,7 +19,7 @@ from inference_engine import InferenceEngine, PatientFact
 # ============================================================================
 
 st.set_page_config(
-    page_title="🏥 Hệ Chuyên Gia Chuẩn Đoán Bệnh",
+    page_title="Hệ Chuyên Gia Chuẩn Đoán Bệnh",
     page_icon="🏥",
     layout="wide",
     initial_sidebar_state="expanded",
